@@ -5,15 +5,15 @@ An experienced Digital Marketer making a leap into Web Development. Passionate a
 
 ![White Minimalist Profile LinkedIn Banner](https://github.com/BanashreeAribenchi/BanashreeAribenchi/assets/132400958/6a44fa88-d569-4cf6-bb84-24b4eb64765b)
 
-#### Frontend Development Technologies:
+#### Frontend Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,bootstrap,tailwind,vite,npm)](https://skillicons.dev)
 
-#### Backend Development Technologies:
+#### Backend Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,postman)](https://skillicons.dev)
 
-
+### Just random..
 - 🔭 I’m currently working on javascript projects
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on full stack web projects
