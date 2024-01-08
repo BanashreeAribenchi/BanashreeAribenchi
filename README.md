@@ -13,7 +13,7 @@ An experienced Digital Marketer making a leap into Web Development. Passionate a
 
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,postman)](https://skillicons.dev)
 
-### Just random..
+### Currently..
 - 🔭 I’m currently working on javascript projects
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on full stack web projects
