@@ -1,9 +1,10 @@
 ### Hi there, I'm Banashree 👋
 
-An experienced Digital Marketer making a leap into Web Development. Passionate about technology, I blend design expertise and problem-solving skills to craft user-centric interfaces. Equipped with coding skills in HTML, CSS, JavaScript, React.js, and responsive design.
+I’m a Frontend Developer with professional experience in JavaScript and React. Currently I’m part of an agile development team where I’m in charge of full stack development of highly scalable and reliable applications using React, Node.js, Express.js, MongoDB.
 
 
-![White Minimalist Profile LinkedIn Banner](https://github.com/BanashreeAribenchi/BanashreeAribenchi/assets/132400958/6a44fa88-d569-4cf6-bb84-24b4eb64765b)
+![BANASHREE ARIBENCHI FRONTEND DEVELOPER](https://github.com/BanashreeAribenchi/BanashreeAribenchi/assets/132400958/f79a1031-27b8-4246-8390-ff42172018ab)
+
 
 #### Frontend Technologies:
 
