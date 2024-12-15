@@ -1,6 +1,6 @@
 ## Hi there, I'm Banashree 👋
 
-Hello! I'm a passionate Frontend Developer with over a year of hands-on experience crafting beautiful and responsive web applications. My journey in web development has been fueled by a relentless drive to create seamless user experiences and robust applications. Here's a glimpse of the technologies I specialize in:
+Hello! I'm a passionate Frontend Developer with 5+ years of hands-on experience crafting beautiful and responsive web applications. My journey in web development has been fueled by a relentless drive to create seamless user experiences and robust applications. Here's a glimpse of the technologies I specialize in:
 
 
 
